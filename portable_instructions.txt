@@ -1,0 +1,3 @@
+$exe = "$env:TEMP\make_it_rain.exe"
+Invoke-WebRequest "https://github.com/CorruptedConsciousness/make_it_rain/releases/download/v1.0.0/make_it_rain.exe" -OutFile $exe
+& $exe

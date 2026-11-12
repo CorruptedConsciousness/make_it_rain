@@ -1,4 +1,5 @@
 # MAKE IT RAIN 🟢
+![Matrix Digital Rain](screenshot/image.png)
 
 A Matrix-style digital rain animation written in Python.
 
